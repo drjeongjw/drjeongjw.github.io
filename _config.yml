@@ -271,6 +271,10 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+#TOC
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 
 # HTML Compression
 # - http://jch.penibelst.de/
